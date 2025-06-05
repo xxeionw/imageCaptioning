@@ -21,7 +21,6 @@ CNN을 통해 이미지 특징을 추출하고, LSTM 기반의 Seq2Seq 모델로
 - Python
 - TensorFlow / Keras
 - Matplotlib, NumPy
-- Jupyter Notebookㅁ
 
 ---
 
