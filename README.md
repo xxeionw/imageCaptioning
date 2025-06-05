@@ -37,3 +37,10 @@ CNN을 통해 이미지 특징을 추출하고, LSTM 기반의 Seq2Seq 모델로
 - CNN-LSTM 연동 구조 이해
 - Attention 메커니즘의 역할과 시각화
 
+---
+
+## 🔗 대용량 파일 다운로드
+
+- 모델 파일: [model.pth 다운로드](https://drive.google.com/drive/folders/1mVaeNSpc6Hold-w5CkqfO89KV7fgjaHQ?usp=drive_link)
+
+
